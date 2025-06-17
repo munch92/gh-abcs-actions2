@@ -9,7 +9,7 @@ References:
 ## 1.1 Update the workflow to trigger when a change is made to the labs folder on main branch
 
 1. Open the workflow file [github-actions-demo.yml](/.github/workflows/github-actions-demo.yml)
-2. Edit the file and copy the following YAML content after line 4:
+2. Edit the file and copy the following YaAML content after line 4:
 ```YAML
   push:
     branches:
